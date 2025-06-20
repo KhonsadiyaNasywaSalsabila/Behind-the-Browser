@@ -1,6 +1,6 @@
 // PETUNJUK 1 (JavaScript Global Variable & Console): Bagian flag pertama ada di sini.
 // Menggunakan 'var' agar variabel ini mudah diakses dari console browser.
-var firstFlagPart = "picoCTF{s3cr3ts_";
+var firstFlagPart = "TI404{s3cr3ts_";
 
 // Log bagian pertama flag ke console saat script dimuat
 console.log("Petunjuk Konsol: Bagian pertama flag Anda adalah: " + firstFlagPart);
